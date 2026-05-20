@@ -14,10 +14,16 @@
           <mxGeometry height="8" width="8" y="30" as="geometry" />
         </mxCell>
         <mxCell id="uqSgiPXXA280GjwNy3_w-7" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);movable=1;resizable=0;rotatable=0;aspect=fixed;connectable=0;allowArrows=0;" value="" vertex="1">
-          <mxGeometry height="8" width="8" x="30" y="30" as="geometry" />
+          <mxGeometry height="8" width="8" x="-30" y="30" as="geometry" />
         </mxCell>
         <mxCell id="uqSgiPXXA280GjwNy3_w-8" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);movable=1;resizable=0;rotatable=0;aspect=fixed;connectable=0;allowArrows=0;" value="" vertex="1">
-          <mxGeometry height="8" width="8" x="-30" y="30" as="geometry" />
+          <mxGeometry height="8" width="8" x="-60" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uqSgiPXXA280GjwNy3_w-9" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);movable=1;resizable=0;rotatable=0;aspect=fixed;connectable=0;allowArrows=0;" value="" vertex="1">
+          <mxGeometry height="8" width="8" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uqSgiPXXA280GjwNy3_w-10" parent="1" style="whiteSpace=wrap;html=1;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);movable=1;resizable=0;rotatable=0;aspect=fixed;connectable=0;allowArrows=0;" value="" vertex="1">
+          <mxGeometry height="8" width="8" x="30" y="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
